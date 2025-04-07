@@ -7,7 +7,7 @@ const About = () => {
   const [hasCopied, setHasCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(" Gokul@jsmastery.pro");
+    navigator.clipboard.writeText(" gokul.kumarrs7@gmail.com");
     setHasCopied(true);
 
     setTimeout(() => {
@@ -126,7 +126,7 @@ const About = () => {
                   alt="copy"
                 />
                 <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">
-                  Gokul@jsmastery.pro
+                  gokul.kumarrs7@gmail.com
                 </p>
               </div>
             </div>

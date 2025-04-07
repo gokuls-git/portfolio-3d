@@ -106940,7 +106940,7 @@ $6.propTypes = $3e;
 const X3e = () => {
     const [n, e] = $.useState(!1),
       t = () => {
-        navigator.clipboard.writeText(" Gokul@jsmastery.pro"),
+        navigator.clipboard.writeText("gokul.kumarrs7@gmail.com"),
           e(!0),
           setTimeout(() => {
             e(!1);
@@ -107112,7 +107112,7 @@ const X3e = () => {
                         X.jsx("p", {
                           className:
                             "lg:text-2xl md:text-xl font-medium text-gray_gradient text-white",
-                          children: "Gokul@jsmastery.pro",
+                          children: "Gokul.pro",
                         }),
                       ],
                     }),
