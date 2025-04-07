@@ -28,7 +28,7 @@ const Footer = () => {
       </div>
 
       <p className="text-white-500">
-        © 2024 Gokul Hajdin. All rights reserved.
+        © 2024 Gokul S. All rights reserved.
       </p>
     </footer>
   );
