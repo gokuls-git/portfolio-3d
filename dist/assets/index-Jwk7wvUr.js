@@ -106967,7 +106967,7 @@ const X3e = () => {
                   children: [
                     X.jsx("p", {
                       className: "grid-headtext",
-                      children: "Hi, I’m Gokul Hajdin",
+                      children: "Hi, I’m Gokul S",
                     }),
                     X.jsx("p", {
                       className: "grid-subtext",
@@ -107169,7 +107169,7 @@ const X3e = () => {
         }),
         X.jsx("p", {
           className: "text-white-500",
-          children: "© 2024 Gokul Hajdin. All rights reserved.",
+          children: "© 2024 Gokul . All rights reserved.",
         }),
       ],
     }),
